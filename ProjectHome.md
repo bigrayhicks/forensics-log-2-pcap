@@ -1,0 +1,1 @@
+Log Server -> Log2Pcap -> PCAP -> Snort/Suricata -> Alerts
